@@ -1,4 +1,5 @@
 footer {
+    font: 14px/150% var(--font-family);
     display: flex;
     gap: 24px;
     padding-block: 24px;
